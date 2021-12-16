@@ -1,0 +1,75 @@
+    .cha1 {
+        position: relative;
+        width: 1500px;
+    }
+
+    .anh {
+        width: 100%;
+    }
+
+    .cha2 {
+        flex;
+    }
+
+    .cha3 {
+        position: absolute;
+        width: 500px;
+        top: 5%;
+        padding: 20px;
+        left: 0px;
+        right: 1000px;
+    }
+
+    .nut {
+        position: absolute;
+        background-color: wheat;
+        top: 5%;
+        padding: 20px;
+        left: 500px;
+        right: 0px;
+        width: 500px;
+        margin: 0px auto;
+        border-radius: 8px;
+        box-shadow: 3px 3px 4px black;
+    }
+
+    .tieude {
+        position: absolute;
+        background-color: whitesmoke;
+        top: 0%;
+        padding: 20px;
+        left: 0px;
+        right: 950px;
+        width: 500px;
+        margin: 0px auto;
+        border-radius: 8px;
+        box-shadow: 3px 3px 4px black;
+    }
+
+    .nut1 {
+        position: absolute;
+        background-color: gainsboro;
+        color: white;
+        top: 10%;
+        padding: 10px;
+        left: 500px;
+        right: 0px;
+        width: 500px;
+        margin: 0px auto;
+        border-radius: 8px;
+        box-shadow: 3px 3px 4px black;
+    }
+
+    .nut2 {
+        position: absolute;
+        background-color: greenyellow;
+        color: white;
+        top: 50%;
+        padding: 10px;
+        left: 0px;
+        right: 950px;
+        width: 500px;
+        margin: 0px auto;
+        border-radius: 8px;
+        box-shadow: 3px 3px 4px black;
+    }
